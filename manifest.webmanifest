@@ -1,0 +1,17 @@
+{
+  "name": "어린이 상담소 원고 공장",
+  "short_name": "원고 공장",
+  "description": "첫걸음 어린이 상담소 원고 작성 도우미",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6EF",
+  "theme_color": "#E2703A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
